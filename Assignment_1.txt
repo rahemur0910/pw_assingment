@@ -1,0 +1,25 @@
+1.what is the internet?
+ans: Internet  is a network of networks that is used to
+interlinked many different types of computer all over
+world.
+Ex: Devlopers keep the data on the server,
+when client request the server for some data, 
+server provides that data to client.
+
+2.what is web browser?
+ans: A web browser is application software that helps you to accessing and visualize your website
+Ex: Chrome,Firefox,safari etc.
+
+3. what is a browser engine?
+ans: A browser engine is a software that is
+core component of web browser, that is responsible
+for interpreting and rendering web content such as HTML,
+CSS and JavaScript.
+Ex: Gecko,Blink,webkit.
+
+4.what is static site?
+ans: Those websites that nothing on the page will change by user even the site administrator unless rededign of the site or the site administrator goes directly into the code to change it.
+
+5.what is dynamic site? 
+ans: Those sites that have dedicated server and also have database for collect your data and genarate it's content.
+it provides interactive functionality to user.
